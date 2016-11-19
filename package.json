@@ -1,13 +1,13 @@
 {
   "name": "mil-dark-theme-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "A mordor-dark variant to match what I'm used to",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/mil-dark-theme-syntax",
+  "repository": "https://github.com/milhead2/mil-dark-theme-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
